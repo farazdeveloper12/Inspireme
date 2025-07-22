@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InspireMe</string>
+    <string name="widget_name">InspireMe Quote Widget</string>
+    <string name="widget_description">Daily motivation on your home screen</string>
+    <string name="loading_quote">Loading inspirational quote...</string>
+    <string name="no_quotes_available">No quotes available</string>
+    <string name="share_quote">Share this inspiring quote</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="favorites_empty">No favorite quotes yet</string>
+    <string name="settings_title">Settings</string>
+    <string name="categories_title">Quote Categories</string>
+    <string name="daily_notifications">Daily Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="auto_refresh">Auto Refresh Widget</string>
+</resources>
